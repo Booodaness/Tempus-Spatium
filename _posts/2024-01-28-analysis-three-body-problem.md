@@ -1,5 +1,5 @@
 ---
-title: "Analysis of the Three-body Problem"
+title: "Analysis of the Three-body Problem (Report)"
 description: "Geometry, chaos and simulation"
 categories: [classical mechanics]
 tags: [homotopy, non-holonomic mechanics, stability, N-body problem]
