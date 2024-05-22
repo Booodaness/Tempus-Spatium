@@ -26,7 +26,7 @@ In this light, we can think of Plato as formulating concept innatism as a *princ
 7. Socratic participants such as Meno's slave cannot have acquired relevant knowledge in this life, **THEREFORE**,
 8. Such participants must have acquired said knowledge (such as that of universals) before this life and merely recollected it in this life.
 
-The corresponding dialogue from the Meno is from "(Socrates): What do you think, Meno? In giving his answers, has he expressed any opinion that was not his own?" to the closing line "(Meno): Here again, I think you are right, Socrates."
+The corresponding dialogue from the Meno is from "(Socrates): What do you think, Meno? In giving his answers, has he expressed any opinion that was not his own?" to "(Meno): Here again, I think you are right, Socrates."
 
 # Interpretation of Plato's Anamnesis
 
