@@ -1,6 +1,6 @@
 ---
-title: "A Closer Look at Quantum Measurements: Part 2.1 (Stern-Gerlach Experiments)"
-description: "How symmetries and quantum interference are adequately modelled by quantum superposition and indeterminacy"
+title: "A Closer Look at Quantum Measurements: Part 2.1 (Classical Stern-Gerlach Experiments)"
+description: "How the classical physics of Stern-Gerlach experiments is surprisingly rich"
 categories: [quantum mechanics]
 tags: [Stern-Gerlach experiments, measurement problem]
 ---
@@ -11,11 +11,11 @@ In [A Closer Look at Quantum Measurements (Slides)]({% post_url 2023-08-03-close
 
 As discussed at the end of the mentioned post, as satisfying as the emergence of the Born rule from such considerations seems to be, such a machinery fails to operate in cases where classical and quantum probabilities simply differ — in fact, this happens when quantum probabilities exhibit *interference*, which has no classical analogue. [^1]
 
-[^1]: As a remark, objective-collapse theories in general share the problem of not having been observed in any experiment as of May 2024.
+[^1]: As a remark, objective-collapse theories in general share the problem of not having been observed in any experiment as of May 2024. They also share the problem of not being easily reconcilable with special or general relativity. There are results to the effect that spontaneous collapse of ensembles with sufficient quantum randomness would defy relativity rather marginally, which may or may not be a problem depending on one's position amidst the myriad of debates in quantum foundations. 
 
 One of the most important and famous types of experiments which highlights this above quantum weirdness is that of Stern-Gerlach. So, let us start with a clean slate (what one might call a slate's vacuum state) and see why probability and the Born rule manifest themselves in quantum mechanics (as they have historically from Stern-Gerlach-type experiments, among others, in a series of crushing successes).
 
-To do so, this will be a two-subpart addendum to the series *A Closer Look at Quantum Measurements*. This first part will only look at part of what classical physics has to say with regard to the Stern-Gerlach experiment.
+To do so, this will be a two-subpart addendum to the series *A Closer Look at Quantum Measurements*. This first part will only look at part of what classical physics has to say with regard to Stern-Gerlach experiments.
 
 ## Basic setup
 
@@ -102,4 +102,4 @@ What this means is that classically, a $$\pmb{\psi}$$-wave is a superposition of
 
 ## Conclusion
 
-Through the above considerations, we have built up a little toolkit for analyzing the Stern-Gerlach experiment classically, in a structure that I believe could be helpful to capture deep parallelisms with quantum theory. This will be the subject of the next subpart.
+Through the above considerations, we have built up a little toolkit for analyzing Stern-Gerlach experiments classically, in a structure that I believe could be helpful to capture deep parallelisms with quantum theory. This will be the subject of the next subpart.
