@@ -2,7 +2,7 @@
 title: "The Question of 'Transitory Worlds' in Plato's Metaphysics: Part 1"
 description: "Why Plato should slow down in his argument in the Meno"
 categories: philosophy
-tags: [epistemology, metaphysics]
+tags: [epistemology, metaphysics, concept innateness, dualism]
 ---
 
 ## Motivation
