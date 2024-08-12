@@ -9,7 +9,7 @@ tags: [qualia, temporal naturalism, Russellian monism]
 
 In the article [*Temporal naturalism*](https://www.sciencedirect.com/science/article/abs/pii/S1355219815000271?via%3Dihub) by Lee Smolin (2013) and his related joint work with Roberto Mangabeira Unger ([*The Singular Universe and the Reality of Time*](https://www.cambridge.org/core/books/singular-universe-and-the-reality-of-time/65D8DD2BFA21BA6FC2210B1DADE286C6?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark), 2014), Smolin conjectures that the physical correlates of qualia are the so-called unprecedented events, whereas their experiential aspects at least partially involve intrinsic, i.e. non-relational properties. In this essay, I will use Smolin’s philosophy of mind to argue for a form of Russellian constitutive cosmoprotopsychism which can potentially solve multiple puzzles on the nature of consciousness, such as the hard problems of consciousness concerning mechanism, duplicates and qualia (Tye, 2007) as well as the mind-evolution problem (Chalmers, 1995).
 
-In the argument, I will utilize ideas from Davidson (1970), Kim (1992), Block (2002), Nagel (1974), Jackson (1982), Chalmers (TED, 2014), Brentano (2015) and Millikan (1989) in the course readings of PHIL 255 (Philosophy of Mind) offered at the University of Waterloo. Additionally, I will refer to Smolin’s peer-reviewed article and his co-authored book with Unger mentioned earlier; the peer-reviewed publications [*On the place of qualia in a relational universe*](https://philarchive.org/archive/SMOTPO-3v1) (Smolin, 2020), [*Panpsychism and Russellian Monism*](https://uhra.herts.ac.uk/bitstream/handle/2299/22006/panpsychismandRM5.6.pdf?sequence=1) (Torin Alter & Sam Coleman, 2018), [Panpsychism](https://onlinelibrary.wiley.com/doi/10.1002/9781119132363.ch8) (Goff, 2007) and [*Philosophical Problems of Consciousness*](https://onlinelibrary.wiley.com/doi/epdf/10.1002/9781119132363.ch2) (Tye, 2007); and finally, related articles from the [*Stanford Encyclopedia of Philosophy*](https://plato.stanford.edu/index.html) and the [*Internet Encyclopedia of Philosophy*](https://iep.utm.edu/).
+In the argument, I will utilize ideas from Davidson (1970), Fodor (1974), Kim (1992), Block (2002), Nagel (1974), Jackson (1982), Chalmers (TED, 2014), Brentano (2015) and Millikan (1989) in the course readings of PHIL 255 (Philosophy of Mind) offered at the University of Waterloo. Additionally, I will refer to Smolin’s peer-reviewed article and his co-authored book with Unger mentioned earlier; the peer-reviewed publications [*On the place of qualia in a relational universe*](https://philarchive.org/archive/SMOTPO-3v1) (Smolin, 2020), [*Panpsychism and Russellian Monism*](https://uhra.herts.ac.uk/bitstream/handle/2299/22006/panpsychismandRM5.6.pdf?sequence=1) (Torin Alter & Sam Coleman, 2018), [Panpsychism](https://onlinelibrary.wiley.com/doi/10.1002/9781119132363.ch8) (Goff, 2007) and [*Philosophical Problems of Consciousness*](https://onlinelibrary.wiley.com/doi/epdf/10.1002/9781119132363.ch2) (Tye, 2007); and finally, related articles from the [*Stanford Encyclopedia of Philosophy*](https://plato.stanford.edu/index.html) and the [*Internet Encyclopedia of Philosophy*](https://iep.utm.edu/).
 
 ## Temporal naturalism: evolution over structure
 
@@ -149,26 +149,28 @@ For now, I will speculate on the second possibility as being a window to the fir
 
 8.	Goff, P., Seager, W., & Allen-Hermanson, S. (2022, May 13). Panpsychism. Stanford Encyclopedia of Philosophy. [https://plato.stanford.edu/entries/panpsychism/](https://plato.stanford.edu/entries/panpsychism/) 
 
-9.	Jackson, F. (1982). Epiphenomenal Qualia. The Philosophical Quarterly, 32(127), 127. [https://doi.org/10.2307/2960077](https://doi.org/10.2307/2960077) 
+9. Fodor, J. A. (1974, January 1). Special Sciences. PhilPapers. [https://philpapers.org/rec/FODSS](https://philpapers.org/rec/FODSS) 
 
-10.	Kim, J. (1992). Multiple Realization and the Metaphysics of Reduction. Philosophy and Phenomenological Research, 52(1), 1. [https://doi.org/10.2307/2107741](https://doi.org/10.2307/2107741) 
+10.	Jackson, F. (1982). Epiphenomenal Qualia. The Philosophical Quarterly, 32(127), 127. [https://doi.org/10.2307/2960077](https://doi.org/10.2307/2960077) 
 
-11.	Millikan, R. G. (1989). Biosemantics. The Journal of Philosophy, 86(6), 281. [https://doi.org/10.2307/2027123](https://doi.org/10.2307/2027123) 
+11.	Kim, J. (1992). Multiple Realization and the Metaphysics of Reduction. Philosophy and Phenomenological Research, 52(1), 1. [https://doi.org/10.2307/2107741](https://doi.org/10.2307/2107741) 
 
-12.	Nagel, T. (1974). What Is It Like to Be a Bat? The Philosophical Review, 83(4), 435. [https://doi.org/10.2307/2183914](https://doi.org/10.2307/2183914) 
+12.	Millikan, R. G. (1989). Biosemantics. The Journal of Philosophy, 86(6), 281. [https://doi.org/10.2307/2027123](https://doi.org/10.2307/2027123) 
 
-13.	Skrbina, D. (n.d.). Panpsychism. Internet Encyclopedia of Philosophy. [https://iep.utm.edu/panpsych/](https://iep.utm.edu/panpsych/) 
+13.	Nagel, T. (1974). What Is It Like to Be a Bat? The Philosophical Review, 83(4), 435. [https://doi.org/10.2307/2183914](https://doi.org/10.2307/2183914) 
 
-14.	Smolin, L. (2015). Temporal naturalism. Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics, 52, 86–102. [https://doi.org/10.1016/j.shpsb.2015.03.005](https://doi.org/10.1016/j.shpsb.2015.03.005)
+14.	Skrbina, D. (n.d.). Panpsychism. Internet Encyclopedia of Philosophy. [https://iep.utm.edu/panpsych/](https://iep.utm.edu/panpsych/) 
 
-15.	Smolin, L. (2022). On the Place of Qualia in a Relational Universe. Consciousness and Quantum Mechanics, 482–514. [https://doi.org/10.1093/oso/9780197501665.003.0018](https://doi.org/10.1093/oso/9780197501665.003.0018) 
+15.	Smolin, L. (2015). Temporal naturalism. Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics, 52, 86–102. [https://doi.org/10.1016/j.shpsb.2015.03.005](https://doi.org/10.1016/j.shpsb.2015.03.005)
 
-16.	Tye, M. (2007). Philosophical Problems of Consciousness. The Blackwell Companion to Consciousness, 23–36. [https://doi.org/10.1002/9780470751466.ch3](https://doi.org/10.1002/9780470751466.ch3) 
+16.	Smolin, L. (2022). On the Place of Qualia in a Relational Universe. Consciousness and Quantum Mechanics, 482–514. [https://doi.org/10.1093/oso/9780197501665.003.0018](https://doi.org/10.1093/oso/9780197501665.003.0018) 
 
-17.	Unger, R. M., & Smolin, L. (2021). The Singular Universe and the Reality of Time: A Proposal in Natural Philosophy. Cambridge University Press. 
+17.	Tye, M. (2007). Philosophical Problems of Consciousness. The Blackwell Companion to Consciousness, 23–36. [https://doi.org/10.1002/9780470751466.ch3](https://doi.org/10.1002/9780470751466.ch3) 
 
-18.	Van Gulick, R. (2014, January 14). Consciousness (The functional question: Why does consciousness exist?). Stanford Encyclopedia of Philosophy. [https://plato.stanford.edu/entries/consciousness/#FunQueWhyDoeConExi](https://plato.stanford.edu/entries/consciousness/#FunQueWhyDoeConExi)
+18.	Unger, R. M., & Smolin, L. (2021). The Singular Universe and the Reality of Time: A Proposal in Natural Philosophy. Cambridge University Press. 
 
-19.	Wilkins, J. S., & Bourrat, P. (2022, October 27). Replication and Reproduction. Stanford Encyclopedia of Philosophy. [https://plato.stanford.edu/entries/replication/](https://plato.stanford.edu/entries/replication/)
+19.	Van Gulick, R. (2014, January 14). Consciousness (The functional question: Why does consciousness exist?). Stanford Encyclopedia of Philosophy. [https://plato.stanford.edu/entries/consciousness/#FunQueWhyDoeConExi](https://plato.stanford.edu/entries/consciousness/#FunQueWhyDoeConExi)
+
+20.	Wilkins, J. S., & Bourrat, P. (2022, October 27). Replication and Reproduction. Stanford Encyclopedia of Philosophy. [https://plato.stanford.edu/entries/replication/](https://plato.stanford.edu/entries/replication/)
 
 ---
