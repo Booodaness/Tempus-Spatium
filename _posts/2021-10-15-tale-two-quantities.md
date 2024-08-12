@@ -65,7 +65,7 @@ Anyway, the point is that even in works of theory, a physicist must carefully co
 
 Now, have you ever wondered why an atom is so small? For example, the hydrogen atom is only about $$1.2 \times 10^{-10} \: \text{m}$$ wide, ignoring the intricacies of quantum mechanics. But what if I were to tell you that you've been asking the wrong question?
 
-The right question is, "why is $$1 \: \text{m}$$ so big relative to a hydrogen atom?", as Leonard Susskind points out in his excellent book, _Quantum Mechanics: The Theoretical Minimum_. The answer is that $$1 \: \text{m}$$ is a human-friendly unit, i.e. it is convenient in daily human life; and, it takes billions of billions of atoms to create an organism as complex as a human. Not surprisinly, units pertaining to atomic phenomena will seem to be teeny-weeny to us giants, so to speak.
+The right question is, "why is $$1 \: \text{m}$$ so big relative to a hydrogen atom?", as Leonard Susskind points out in his excellent book, _Quantum Mechanics: The Theoretical Minimum_. The answer is that $$1 \: \text{m}$$ is a human-friendly unit, i.e. it is convenient in daily human life; and, it takes billions of billions of atoms to create an organism as complex as a human. Not surprisingly, units pertaining to atomic phenomena will seem to be teeny-weeny to us giants, so to speak.
 
 But nature and physics do not seem to care whether humans are present to observe it, or not. From the perspective of the universe, our common units are arbitrary. Since the job of a physicist is to describe nature fundamentally, he or she often faces a situation where a more 'natural' system of units is required. That is, units that are tied to fundamental things in nature.
 
@@ -140,7 +140,7 @@ Saying this, the legendary physicist walks to the counter and picks up a drink. 
 
 So, what is the end take from the tale of two quantities — charge and current? Well, what if I were to tell you that it was a tale indeed, for the practical, or common reason for choosing current as a fundamental quantity is very different?
 
-It simply lies in the fact that current can be measured more accurately than charge. Current is measured using its magnetic effect on a magnetometer. To measure static charge accurately, one always does so using current in some form or the other. Be it measuring the capacitance and voltage of the body storing the charge, or transfering the charge to an instrument and integrating the current over time, the measurement of charge is a dynamic process.
+It simply lies in the fact that current can be measured more accurately than charge. Current is measured using its magnetic effect on a magnetometer. To measure static charge accurately, one always does so using current in some form or the other. Be it measuring the capacitance and voltage of the body storing the charge, or transferring the charge to an instrument and integrating the current over time, the measurement of charge is a dynamic process.
 
 This relative ease of measuring current is a natural fact. It has to do with the very nature of measurement: when we measure a quantity, we disturb the object associated with it. Disturbing charges, more often than not, leads to current in nature.
 
